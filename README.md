@@ -1,8 +1,4 @@
 🐒
-- 👋 Hi, I’m @AaalexMTX
-- 🌱 I’m currently learning ...
-- 💬 Ask me about anything related to ... 
-- 📫 How to reach me: [WeChat]c_23426
 
 ### 仓库状态统计
 ![](https://github-readme-stats.vercel.app/api?username=AaalexMTX&show_icons=true&theme=transparent)
